@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-digital-clock/static/css/main.9f51b429.css",
+    "main.js": "/reactjs-digital-clock/static/js/main.2cf78921.js",
+    "static/js/787.f390d588.chunk.js": "/reactjs-digital-clock/static/js/787.f390d588.chunk.js",
+    "index.html": "/reactjs-digital-clock/index.html",
+    "main.9f51b429.css.map": "/reactjs-digital-clock/static/css/main.9f51b429.css.map",
+    "main.2cf78921.js.map": "/reactjs-digital-clock/static/js/main.2cf78921.js.map",
+    "787.f390d588.chunk.js.map": "/reactjs-digital-clock/static/js/787.f390d588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f51b429.css",
+    "static/js/main.2cf78921.js"
+  ]
+}
